@@ -1,0 +1,142 @@
+
+
+
+body{
+
+  /*background-image: url('https://media.giphy.com/media/X6hiFJjvTDAAw/giphy.gif');*/
+  /*background-size: cover;*/
+  background-color: rgba(80, 189, 252, 0.5);
+  font-family: 'PT Mono', monospace;
+  color: "black";
+  font-size: 20px
+  text-shadow: 1px 1px "lightgrey";
+}
+
+#site-title {
+font-family: 'Audiowide', cursive;
+color: deeppink;
+font-size: 100px;
+margin-bottom: 0;
+}
+
+
+#site-subtitle {
+font-family: 'Audiowide', cursive;
+color: darkblue;
+font-size: 30px;
+margin-top: 0;
+}
+
+
+#country-select {
+  font-family: 'PT Mono', monospace;
+  
+  width: 300px;
+  /*background-color: #4087f9;*/
+  color: black;
+  font-size: 20px;
+  /*text-align: center;*/
+}
+
+
+
+/*li{
+  width: 300px;
+}
+
+h1{
+  background-color: #4087f9;
+  color: #FFF;
+  font-size: 100px;
+font-family: 'Raleway', sans-serif;
+
+  text-align: center;
+}
+
+select{
+    background-color: #0184B2;
+}
+
+article{
+  display: inline-block;
+}
+
+.source-select {
+  width: 300px;
+  background-color: #4087f9;
+  color: #FFF;
+  font-size: 50px;
+  text-align: center;
+}
+
+select, button{
+  margin-bottom: 50px;
+  width: 300px;
+  background-color: #4087f9;
+  color: #FFF;
+  font-size: 50px;
+  text-align: center;
+}
+
+.source-select, .get-all-button {
+
+}
+
+#controls {
+  display: flex;
+   justify-content: center;
+ 
+}
+
+#news-articles{
+  display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+
+
+}
+
+input[type=image]{
+  width: 300px;
+}
+
+input[type=image] { transition: all .2s ease-in-out; }
+input[type=image]:hover { transform: scale(2); }
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: rgb(239, 245, 255);
+    margin: 15% 15%; /* 15% from the top and centered */
+    padding: 5px;
+    border: 1px solid #888;
+    width: 70%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}*/
