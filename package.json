@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "build": "cd client && webpack -w"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/stephenedwardng/Bcktr/issues"
   },
-  "homepage": "https://github.com/stephenedwardng/Bcktr#readme"
+  "homepage": "https://github.com/stephenedwardng/Bcktr#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "webpack": "^3.5.1"
+  }
 }
