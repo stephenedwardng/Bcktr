@@ -1,0 +1,19 @@
+{
+  "name": "bcktr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenedwardng/Bcktr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenedwardng/Bcktr/issues"
+  },
+  "homepage": "https://github.com/stephenedwardng/Bcktr#readme"
+}
